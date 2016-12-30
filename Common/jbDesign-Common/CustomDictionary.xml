@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<Dictionary>
+   <Words>
+      <Recognized>
+         <Word>Registrable</Word>
+      </Recognized>
+   </Words>
+   <Acronyms>
+      <CasingExceptions>
+         <Acronym>jb</Acronym>
+      </CasingExceptions>
+   </Acronyms>
+</Dictionary>
